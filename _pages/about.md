@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-10年产品经验。腾讯产品专家。<br>小鹅拼拼/幻核产品&增长负责人；QQ-Zplan海外版负责人；<br> LOOK产品主管，早期创始团队；<br>唯物联创，苹果优秀开发者；<br>[音乐人](http://163cn.tv/9lZXi2 )；⿎⼿；[电台主播](https://www.xiaoyuzhoufm.com/podcast/5e8179dc418a84a046aeebf1)
+10年产品经验。腾讯产品专家。<br>小鹅拼拼/幻核产品&增长负责人；QQ-Zplan海外版负责人；<br> LOOK产品主管，早期创始团队；<br>唯物联创，苹果优秀开发者；<br>[音乐人](http://163cn.tv/9lZXi2 )；⿎⼿；[电台主播](https://www.xiaoyuzhoufm.com/podcast/5e8179dc418a84a046aeebf1)<br><br>
 
 
 Portfolio
