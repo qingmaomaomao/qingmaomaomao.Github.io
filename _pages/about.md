@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-10年产品经验。腾讯产品专家，小鹅拼拼产品负责人，Zplan海外版负责人；LOOK产品主管，早期创始团队；唯物联创COO，苹果优秀开发者；
+10年产品经验。腾讯产品专家，小鹅拼拼产品负责人，Zplan海外版负责人；
+LOOK产品主管，早期创始团队；
+唯物联创COO，苹果优秀开发者；
 [音乐人](http://163cn.tv/9lZXi2 )；⿎⼿；[电台主播](https://www.xiaoyuzhoufm.com/podcast/5e8179dc418a84a046aeebf1)
 
 
