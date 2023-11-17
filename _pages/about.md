@@ -8,44 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-10年产品经验。腾讯产品专家，小鹅拼拼产品负责人，Zplan海外版负责人；<br> LOOK产品主管，早期创始团队；<br>唯物联创COO，苹果优秀开发者；<br>[音乐人](http://163cn.tv/9lZXi2 )；⿎⼿；[电台主播](https://www.xiaoyuzhoufm.com/podcast/5e8179dc418a84a046aeebf1)
+10年产品经验。腾讯产品专家，小鹅拼拼/幻核产品&增长负责人，QQ-Zplan海外版负责人；<br> LOOK产品主管，早期创始团队；<br>唯物联创，苹果优秀开发者；<br>[音乐人](http://163cn.tv/9lZXi2 )；⿎⼿；[电台主播](https://www.xiaoyuzhoufm.com/podcast/5e8179dc418a84a046aeebf1)
 
-
-A data-driven personal website
+Portfolio
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+腾讯；QQ-Zplan海外版；业务负责人；2022.5-2022.10
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+QQ元宇宙项目，与天美工作室合作开发，面向海外市场，主打3D社交互动。
+负责业务立项，产品架构设计，跨BG合作开发，海外市场调研和用户研究。
 
-Create content & metadata
+腾讯；创造营-小鹅拼拼/幻核；产品&增长负责人；2020.6-2022.7
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+PCG创新孵化部门。小鹅拼拼是基于微信生态面向Z世代年轻人的圈层社交电商，包含中心化主站&去中心化种草号、商家号产品，月GPV过亿，服务千万用户，沉淀数亿用户关系链数据；幻核是国内最早也是最大的NFT发行平台，项目总营收过亿。
+负责产品&增长团队搭建，管理数十人团队。负责产品架构设计，增长策略规划，协调渠道、市场、DA团队，落地产品和方案，推动大盘数据增长。期间虚线管理整体业务设计和业务团队。
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+LOOK；产品主管；2018.3-2020.6
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+LOOK是专注于⼥性消费领域的零售平台。业务包含以⼩程序为核⼼的社交电商和以会员为核⼼的⾃营电商，以及LOOKNOW品牌的线下综合性买手店。在微信平台与近200位头部时尚博主独家合作，覆盖⽤户超8000W，⽉流⽔数千万。⾃营电商已经服务数百万会员，⽉流⽔超千万。LOOKNOW已经在北京上海杭州的超⼀线商场拥有10+家⻔店。
+负责线上线下产品、数据和增⻓等业务模块，管理10⼈产品设计团队。
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+唯物；联创；2014.12-2018.1
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+唯物是⼀个以场景化居家指南为核⼼的家居内容社区。上线即获得App Store⾸⻚推荐（数周），总榜16，常驻⽣活类精品应⽤，获得中国区优秀开发者团队。另有唯物家居自营品牌，主要有微信、小红书销售渠道。
+负责整体业务和团队管理。
